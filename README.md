@@ -1,5 +1,7 @@
 # ANNDL_challenge_2022
 
+This repository contains the implementation and results for the challenges hosted by Politecnico di Milano for the Artificial Neural Networks and Deep Learning course (2022)
+
 ## Image Classification
 
 In this first challenge we were required to classify species of plants which are divided into categories according to the species to which they belong. Being a classification problem, given an image, the goal was to predict the correct class label.
@@ -24,7 +26,7 @@ Final Test Accuracy = 85.4%
 
 ## Time Series Classification
 
-In this second challenge we were asked to correctly classify samples in the multivariate time series format. Since this is a classification problem, the objective was to correctly map the information contained in the features calculated over time to their labels.
+In this second challenge we were asked to correctly classify samples in the multivariate time series format. Being a classification problem, the objective was to correctly map the information contained in the features calculated over time to their labels. As the source of these time series was unkown, we could not exploit any domain knowledge.
 
 Dataset Details:
 
